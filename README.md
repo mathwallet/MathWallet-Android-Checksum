@@ -23,7 +23,7 @@ sha256: DA:40:1A:5B:55:92:C0:BA:F2:B1:3B:08:8B:60:76:C0:02:D3:B1:3B:0B:56:43:D2:
 ## MathWallet1
 
 ### GooglePlay
-[https://play.google.com/store/apps/details?id=com.medishares.android]
+https://play.google.com/store/apps/details?id=com.medishares.android
 
 sha-1: 70:80:8D:91:93:60:0F:00:7C:B5:75:43:A6:35:F9:AF:C8:C6:0E:06
 
@@ -32,7 +32,7 @@ md5: 7E:A0:EF:70:A7:E8:94:B9:22:19:4B:44:A1:7B:98:38
 sha256: 9B:E1:A3:F7:C8:0C:59:1D:4C:71:90:9F:D1:56:DF:F2:D4:2F:CB:74:A9:CD:E4:24:24:D7:F2:66:46:73:DE:D0
 
 ### APK
-[https://mathwallet-public.s3.us-east-2.amazonaws.com/android/mathwallet_android.apk]
+https://mathwallet-public.s3.us-east-2.amazonaws.com/android/mathwallet_android.apk
 
 sha1: F5:E6:A2:85:65:FA:13:E0:6D:DF:18:03:32:69:50:49:8A:F6:F1:3A
 
