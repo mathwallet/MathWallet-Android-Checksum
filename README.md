@@ -1,7 +1,7 @@
 ## MathWallet5
 
 ### GooglePlay
-[link https://play.google.com/store/apps/details?id=com.mathwallet.android]
+https://play.google.com/store/apps/details?id=com.mathwallet.android
 
 sha-1: B9:68:49:FA:AA:66:D1:DB:C2:6D:4B:33:DD:31:44:50:CC:72:CB:C2
 
@@ -10,7 +10,7 @@ md5: F7:70:4C:55:AB:70:8A:5E:73:CE:D1:1E:0C:5C:02:BC
 sha256: C4:07:42:A8:44:7A:88:F0:C6:0B:DF:08:2D:43:CE:58:A1:58:1B:42:85:C5:3A:83:D0:CF:0C:0D:71:31:E9:C3
 
 ### APK
-[https://mathwallet-public.s3.us-east-2.amazonaws.com/android/mathwallet5_android.apk]
+https://mathwallet-public.s3.us-east-2.amazonaws.com/android/mathwallet5_android.apk
 
 
 sha-1: 52:E3:A4:24:79:5A:00:39:E1:0A:E3:92:8C:13:6B:FA:1F:CC:FC:43
