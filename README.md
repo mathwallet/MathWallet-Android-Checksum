@@ -1,7 +1,7 @@
 ## MathWallet5
 
 ### GooglePlay
-https://play.google.com/store/apps/details?id=com.mathwallet.android
+<https://play.google.com/store/apps/details?id=com.mathwallet.android>
 
 sha-1: B9:68:49:FA:AA:66:D1:DB:C2:6D:4B:33:DD:31:44:50:CC:72:CB:C2
 
