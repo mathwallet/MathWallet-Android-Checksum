@@ -39,3 +39,10 @@ sha1: F5:E6:A2:85:65:FA:13:E0:6D:DF:18:03:32:69:50:49:8A:F6:F1:3A
 md5: D1:54:E1:26:DF:2B:47:96:8B:2E:5F:3C:4E:50:AF:16 
 
 sha256: 9C:2A:56:AE:EB:26:AB:EF:99:0D:74:13:19:02:4E:7D:8B:BE:33:28:F6:FD:B5:85:E8:8F:D3:78:A6:A4:AC:9D
+
+
+## How to verify
+
+[https://developer.android.com/studio/command-line/apksigner#usage-verify](https://developer.android.com/studio/command-line/apksigner#usage-verify)
+
+[https://android.stackexchange.com/questions/9312/how-can-i-verify-the-authenticity-of-an-apk-file-i-downloaded](https://android.stackexchange.com/questions/9312/how-can-i-verify-the-authenticity-of-an-apk-file-i-downloaded)
